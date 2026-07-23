@@ -5,16 +5,6 @@
   ],
   "mods": [
     {
-      "id": "new-mod",
-      "name": "Mario Kart Generations",
-      "type": "modpack",
-      "version": "1.3.1",
-      "author": "UNREALII-",
-      "description": "The Newest Mario kart 8 Modpack!\n\nMario Kart Generations.\n\nIncludes:\n-Custom Menu's\n-48 Custom Tracks!\n-Custom Music",
-      "download": "https://drive.google.com/file/d/1cdf3QlOlSvIJD6ana07hT5NgG58fagxR/view?usp=drivesdk",
-      "thumbnail": "https://images.gamebanana.com/img/ss/wips/6474e711986c9.jpg"
-    },
-    {
       "id": "new-mod-2",
       "name": "Mario Kart Galaxy",
       "type": "modpack",
@@ -43,7 +33,7 @@
     {
       "id": "new-mod-3",
       "name": "Boltthunder4's CT PACK",
-      "type": "mod",
+      "type": "modpack",
       "version": "1.0.1",
       "author": "Boltthunder4",
       "description": "This is my personal collection of tracks I gathered while creating the Timelined Mario Kart 8 wii u modpack! Basically it's TMK8 without sonic characters/karts/ui. I just made it for the people who wanted to play the tracks without anything sonic related :D\n\nThis Modpack contains:\n\n-46 High Quality Custom Tracks & 2 Texture Hacks\n-Custom Cup icons & Music for every Custom Track\n-Pretendo Network Support!\n-An excilarating way to experience the original Mario Kart 8 with different tracks!\n\nNotes:\n\n*1 The patch_pretendo_mm.asm file is a standard patch for CEMU. It's NOT for console!\n\n*2 In Online Mode, since this shares the same exact tracks with Timelined Mario Kart 8, you will be able to play with players that have the TMK8 modpack enabled!\n\n*3 The console might crash sometimes with a load BEEEEP but don't worry, you are completely safe. Just unplug and plug the console and you're ready. The chances of this happening again after the original crash are very low\n\n*4 If you are on console and want to play Grand Prix there are a lot of times that the console will Crash! I don't know what's the cause but Please use \"VS Race\", if you want to have a great experience!\n\n*5 Cloudtop Cruise, Dolphin Shoals and Wario Mountain are just weird working tracks. That's why there's 2 textures hacks. For example in Dolphin Shoals you would hear a 2-second sound playing each time you start lap 2\n\n*5a Squeaky Clean Sprint has a bit of lag and some visual glitches but they are very minor so I decided to keep the level",
